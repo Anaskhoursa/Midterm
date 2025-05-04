@@ -8,9 +8,9 @@ The objective of this project is to demonstrate a practical application of data 
 
 ## Files Included
 
- `analysis.py`: Python script that performs data loading, preprocessing, analysis, model training, and evaluation.
- \n`midterm report.pdf`: Report summarizing the methodology and results.
- \n`readme.md`: This documentation file.
+ -`analysis.py`: Python script that performs data loading, preprocessing, analysis, model training, and evaluation.
+ -`midterm report.pdf`: Report summarizing the methodology and results.
+ -`readme.md`: This documentation file.
 
 ## Requirements
 
